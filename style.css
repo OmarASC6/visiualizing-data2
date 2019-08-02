@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin:0px;
+}
+
+ .personName{ 
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    /* font-style: bold; */
+} 
+.location{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 15px;
+}
+
+.card{
+    /* display: flex; */
+    text-align: center;
+    /* justify-content: center; */
+}
+
+
+.head{
+    background-color: green;
+}
+
+.main-elemnt{
+    margin-top: 0px;
+    background-color: green;
+}
+
